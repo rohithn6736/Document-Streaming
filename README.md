@@ -4,6 +4,8 @@
 
 ## Overview
 1. **Data Retrieval:** Fetch Data from a text file through an API created using FastAPI.
-2. Data Streaming: Stream this data to a Kafka topic.
-3. Real Time Processing: Process this data using Spark structured streaming.
-4. Data Storage: Store the processed data into MongoDB.
+2. **Data Streaming:** Stream this data to a Kafka topic.
+3. **Real Time Processing:** Process this data using Spark structured streaming.
+4. **Data Storage:** Store the processed data into MongoDB.
+
+   
